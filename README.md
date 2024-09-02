@@ -1,3 +1,5 @@
+# Xây dựng game indie Yacht Quest cho nền tảng Steam
+
 ## MỞ ĐẦU
 
 ## Chương I: Nghiên cứu thị trường Game indie
@@ -40,15 +42,43 @@ Viết về nghiên cứu cụ thể các game thuộc thể loại roguelike de
 
 Lập bảng SWOT
 
+=> Kết luận:
+
+-   Game cần dễ tiếp cận, dễ học nhưng có chiều chiến thuật.
+-   Lôi chơi phải có đan xen giữa sự quen thuộc và mới mẻ.
+-   Hình ảnh không nhất thiết phải quá đẹp và chi tiết, nhưng nó cần phải đặc trưng và cá tính.
+
 ## Chương II: Xây dựng trò chơi
 
 ### 2.1 Xây dựng nội dung
 
 ### 2.1.1. Ý tưởng
 
+Lấy trò chơi Yacht dice là một trò chơi súc sắc truyền thống làm cảm hứng, vì nó là trò chơi súc sắc phổ biến nên nó có sự quen thuộc với người chơi.
+
+Nó có độ ngẫu nhiên nhỏ hơn cả một bộ bài với nhiều thể vài và nhiều chữ giúp dễ dàng học cách chơi, dễ tiếp cận.
+
+Nhưng nó cũng có tiềm năng mở rộng chiều sâu chiến thuật.
+
 ### 2.1.2. Gameplay
 
+Gameplay loop là gì?
+
+Cân bằng game như thế nào? (đi sâu vào lý thuyết trò chơi, cách để cần bằng nhân vật, vật phẩm, lối chơi và chiến thuật trong gameplay)
+
 ### 2.1.3. Cốt truyện
+
+Cốt truyện đơn giản: Có một con thuyền phép thuật mà nếu bất cứ ai lên trên đó và chiến thắng được một giải đấu Yacht dice tổ chức trên thuyền thì người đấy sẽ được ban một điều ước.
+
+Đây chỉ là một cốt truyện đơn giản để người chơi có động lực để khám phá trò chơi. Sự đơn giản này là để nhằm tôn nên yếu tố quan trọng hơn, đó chính là nhân vật
+
+Khái niệm nhân vật trong game là gì?
+
+Nhân vật là phần quan trọng của em vì nó thể hiện được nhiều cá tính, bắt mắt, cuốn hút, dễ dàng đem ra để làm hình ảnh marketing, dễ dàng xây dựng công đồng ưa chuộng nhân vật… Thậm chí nếu thành công, ta có thể có cơ hội mở rộng và bán các sản phẩm merch như quần áo hoặc phụ kiện mang hình ảnh các nhân vật đó.
+
+Vì vậy nên các nhân vật cần phải đặc trưng và cá tính.
+
+Đi qua một số nhân vật đã thiết kế trong game.
 
 ### 2.2. Công nghệ sử dụng
 
