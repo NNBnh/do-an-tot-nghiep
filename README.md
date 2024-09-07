@@ -82,11 +82,29 @@ Vì vậy nên các nhân vật cần phải đặc trưng và cá tính.
 
 ### 2.2. Công nghệ sử dụng
 
+Game engine là gì? Đi sâu vào Godot và vi sao nó lại lý tưởng để làm game indie (vì là phần mềm mã nguồn mở, không bị ràng buộc giấy phép hay thu phí, dễ tiếp cận, đơn giản xong cũng mạnh mẽ và giàu tính năng. Công đồng lớn) Đề cập đến GDscript.
+
+Đề xập qua các mô hình và phương pháp lập trình mà mình sử dụng để làm game
+
+-   Functional Programing
+-   Event Driven Programming
+-   Entity component system
+-   Statecharts
+
 ### 2.3. Thiết kế flow người dùng
+
+Vẽ bảng flowchart.
 
 ### 2.4. Lập kế hoạch
 
+Lập bảng kế hoạch các bước làm game bao gồm thời gian và chi phí
+
 ### 2.5. Phát hành game
+
+Tạo ảnh/video để quảng bá.
+Viết nội dung mô tả game để truyền tải, quảng cáo.
+Xây dựng page trên nền tảng.
+Giới thiệu game cho những người nổi tiếng.
 
 ## Chương III: Kết quả
 
